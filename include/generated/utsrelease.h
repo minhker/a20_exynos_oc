@@ -1,0 +1,1 @@
+#define UTS_RELEASE "4.4.111-MinhKer_P-V13_LIttle-A205-20200419"
